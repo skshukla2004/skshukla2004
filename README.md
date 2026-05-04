@@ -27,5 +27,5 @@ Data Analysis
 
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: []  
+- 💼 LinkedIn: [linkedin.com/in/shashikantshuklaaktu]  
 - 💻 GitHub: [https://github.com/skshukla2004]
