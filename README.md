@@ -1,4 +1,4 @@
-#  Hi, I'm Shashikant Shukla
+# Hi, I'm Shashikant Shukla
 🎯 Entry-Level Data Analyst | SQL | Excel | Power BI | Python | Data Visualization
 
 I am a final-year BTech (Computer Science) student and and Google,Microsoft,IBM Certified Data Analyst with hands-on experience in analyzing datasets and building dashboards.
