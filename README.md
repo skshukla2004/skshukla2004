@@ -12,7 +12,7 @@ Data Analysis
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
-* Data Visualization
+* Data Visualization 
 * Business Insights
 * Tools & Technologies
 
