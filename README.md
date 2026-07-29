@@ -3,7 +3,7 @@ Entry-Level Data Analyst | SQL | Excel | Power BI | Python | Data Visualization
  
 I have Completed my B.Tech in Computer Science Engineering and  Google,Microsoft,IBM Certified Data Analyst with hands-on experience in analyzing datasets and building dashboards. 
        
-I enjoy transforming raw data into meaningful insights that support business decision-making. My work focuses on data cleaning, exploratory data analysis (EDA), dashboard creation, and identifying trends in business data.
+I enjoy transforming raw data into meaningful insights that support business decision-making. My work focuses on data cleaning, exploratory data analysis (EDA), dashboard creation, and identifying trends in business data. 
 
 Currently expanding my expertise in Python for Data Analysis and Machine Learning.  
  
