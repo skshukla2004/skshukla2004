@@ -19,7 +19,7 @@ Data Analysis
 
 - Excel → Data Cleaning, Pivot Tables, Dashboards
 - SQL → Queries, Joins, CTEs, Window Functions
-- Power BI → Data Modeling, DAX, Interactive Dashboards
+- Power BI → Data Modeling, DAX, Interactive Dashboards    
 - Python → Pandas, NumPy, Matplotlib, Seaborn
 - Other Tools → Git, GitHub
 
