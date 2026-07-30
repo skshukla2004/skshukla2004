@@ -14,7 +14,7 @@ Data Analysis
 * Data Cleaning     
 * Exploratory Data Analysis (EDA)            
 * Data Visualization 
-* Business Insights
+* Business Insights    
 * Tools & Technologies
 
 - Excel → Data Cleaning, Pivot Tables, Dashboards
