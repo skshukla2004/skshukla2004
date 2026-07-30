@@ -12,7 +12,7 @@ Currently expanding my expertise in Python for Data Analysis and Machine Learnin
 Data Analysis      
        
 * Data Cleaning     
-* Exploratory Data Analysis (EDA)      
+* Exploratory Data Analysis (EDA)            
 * Data Visualization 
 * Business Insights
 * Tools & Technologies
