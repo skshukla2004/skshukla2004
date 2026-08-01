@@ -23,7 +23,7 @@ Data Analysis
 - Python → Pandas, NumPy, Matplotlib, Seaborn
 - Other Tools → Git, GitHub
 
-## 📂 Featured Projects  
+## 📂 Featured Projects      
 
 
 
